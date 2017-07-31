@@ -28,6 +28,10 @@ Validate if a key is being written
 
 # Changelog
 
+## 1.0.5
+
+- Add StrictHostKeyChecking
+
 ## 1.0.3
 
 - Fix properties section in wercker-step.yml
